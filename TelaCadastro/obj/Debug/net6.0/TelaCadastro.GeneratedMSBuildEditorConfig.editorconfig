@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TelaCadastro
+build_property.RootNamespace = TelaCadastro
+build_property.ProjectDir = D:\Users\vodobrovolsk\Desktop\TelaCadastro\TelaCadastro\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Users\vodobrovolsk\Desktop\TelaCadastro\TelaCadastro
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Endereco/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Endereco/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Endereco/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Endereco/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Endereco/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Mensagem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Mensagem/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Mensagem/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Mensagem/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Mensagem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuc2FnZW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/TelaCadastro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsYUNhZGFzdHJvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/TelaCadastro/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsYUNhZGFzdHJvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/TelaCadastro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsYUNhZGFzdHJvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/TelaCadastro/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsYUNhZGFzdHJvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/TelaCadastro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsYUNhZGFzdHJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/vodobrovolsk/Desktop/TelaCadastro/TelaCadastro/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wdgxa691ds

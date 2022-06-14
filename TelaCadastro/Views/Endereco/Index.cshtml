@@ -1,0 +1,65 @@
+﻿@model IEnumerable<TelaCadastro.Models.Ender>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Endereço</h1>
+
+<p>
+    <a asp-action="Create">Novo Endereço</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID cadastro
+            </th>
+            <th>
+                Rua
+            </th>
+            <th>
+                Numero
+            </th>
+            <th>
+                Cep
+            </th>
+            <th>
+                Cidade
+            </th>
+            <th>
+                Estado
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.cadastroid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.rua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.numero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cep)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.estado)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

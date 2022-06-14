@@ -1,0 +1,41 @@
+﻿@model IEnumerable<TelaCadastro.Models.Mensa>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Mensagem</h1>
+
+<p>
+    <a asp-action="Create">Nova Mensagem</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID do Cadastro
+            </th>
+            <th>
+                Mensagem
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.cadastroid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.mensagem)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
